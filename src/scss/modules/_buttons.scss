@@ -1,0 +1,14 @@
+button{
+	background-color: $red;
+	color: $white;
+	border: none;
+	padding: 1em;
+}
+
+.btn{
+	border-radius: 20px;
+}
+
+button:hover{
+	background-color: tomato;
+}

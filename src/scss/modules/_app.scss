@@ -1,0 +1,93 @@
+.header {
+    margin: auto;
+    padding: 5em;
+    background-color: $backsplash;
+    color: $white;
+    text-align: center;
+    h1{
+      font-size: 3em;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      
+    }
+    h5{
+      padding-top: 2em;
+    }
+    img{
+      height: 8em;
+    }
+      .scroll{
+      height: 4em;
+      padding-top: 0.5em;
+    }
+}
+
+.slider {
+  background-color: #FFFFFF;
+   
+}
+
+.features{
+	 background-color: $backsplash;
+   color: $white;
+   
+    img{
+      height: 40%;
+      width: 50%;
+    
+      
+    }
+}
+
+.portfolio {
+  background-color: #FFFFFF;
+   img{
+      height:14em;
+      width:98%;
+      padding-bottom: 1em;
+    }
+}
+
+.testimonials{
+   background-color: $backsplash;	
+   color: $white;
+     img{
+      height: 3em;
+      margin-left:3em; 
+    }
+    .quote{
+      margin-left:30%;
+    }
+}
+
+.pricing{
+	background-color: #FFFFFF;
+}
+
+.showcase{
+	 background-color: $backsplash;
+   color: $white;
+   img{
+      height: 100%;
+    }
+}
+
+.team{
+	 background-color: #FFFFFF;
+   .social{
+  height: 60%;
+  width: 10%;
+  display: inline-block;
+}
+}
+
+.contact{
+   background-color: $backsplash;
+   color: $white;
+}
+
+
+.social{
+  margin-left: 2.5em;
+}
+
